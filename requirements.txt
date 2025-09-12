@@ -1,0 +1,7 @@
+tensorflow==2.13.1
+scikit-learn==1.3.2
+pandas==2.1.1
+numpy==1.25.2
+matplotlib==3.8.0
+seaborn==0.12.2
+python-dateutil==2.8.2
