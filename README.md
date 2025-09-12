@@ -22,7 +22,7 @@ This repository contains a deep learning model built using Keras and TensorFlow 
 
 
 # Project Structure
-
+```
 Stock-Prediction-wKeras/
 ├── data/                 # Raw and processed stock data
 ├── model/                # Saved model files
@@ -30,10 +30,12 @@ Stock-Prediction-wKeras/
 ├── src/                  # Python scripts for training and prediction
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
+```
+
 
 # Installation
 ```
-git clone https://github.com/yourusername/Stock-Prediction-wKeras.git
+git clone https://github.com/ibrahimaltun/Stock-Prediction-wKeras.git
 cd Stock-Prediction-wKeras
 pip install -r requirements.txt
 ```
