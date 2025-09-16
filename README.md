@@ -23,13 +23,12 @@ This repository contains a deep learning model built using Keras and TensorFlow 
 
 # Project Structure
 ```
-Stock-Prediction-wKeras/
-├── data/                 # Raw and processed stock data
-├── model/                # Saved model files
-├── notebooks/            # Jupyter notebooks for exploration and visualization
-├── src/                  # Python scripts for training and prediction
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
+├── models/                        # Saved model files
+├── plots/                         # Visual outputs
+├── MicrosoftStock.csv             # Raw and processed stock data
+├── forecast_stock_prices.ipynb    # Python notebook for training and prediction
+├── README.md                      # Project documentation
+└── requirements.txt               # Python dependencies
 ```
 
 
